@@ -33,3 +33,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# /.gitignore
+# next.js build output
+.next
+# Dependency directories
+node_modules/
